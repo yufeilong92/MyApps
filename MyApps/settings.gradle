@@ -1,0 +1,1 @@
+include ':app', ':myphotoservice', ':myappregistreceiver', ':mybinservice', ':myappban', ':myappxiaomi', ':myappmusic', ':myappreoteservice', ':myapploaclservice'

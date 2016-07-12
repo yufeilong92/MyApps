@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApps.iml" filepath="$PROJECT_DIR$/MyApps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myappban/myappban.iml" filepath="$PROJECT_DIR$/myappban/myappban.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapploaclservice/myapploaclservice.iml" filepath="$PROJECT_DIR$/myapploaclservice/myapploaclservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myappmusic/myappmusic.iml" filepath="$PROJECT_DIR$/myappmusic/myappmusic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myappregistreceiver/myappregistreceiver.iml" filepath="$PROJECT_DIR$/myappregistreceiver/myappregistreceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myappreoteservice/myappreoteservice.iml" filepath="$PROJECT_DIR$/myappreoteservice/myappreoteservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myappxiaomi/myappxiaomi.iml" filepath="$PROJECT_DIR$/myappxiaomi/myappxiaomi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybinservice/mybinservice.iml" filepath="$PROJECT_DIR$/mybinservice/mybinservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myphotoservice/myphotoservice.iml" filepath="$PROJECT_DIR$/myphotoservice/myphotoservice.iml" />
+    </modules>
+  </component>
+</project>
